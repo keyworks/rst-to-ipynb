@@ -6,7 +6,7 @@ Subsection a
 
 .. code:: python
 
-    this = 'is a code block'
+    this = 'is a code block test'
     x = 1
     no = 'really!'
     p = argwhere(x == 2)
